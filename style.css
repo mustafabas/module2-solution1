@@ -14,7 +14,8 @@ body{margin:0;}
 @media only screen and (min-width:768px) and (max-width:991px){
     .left-side{width:49.5%; margin-right:0.5%; float:left;}
     .middle-side{width:49.5%; float: right; }
-    .right-side{width:100%; float: none; margin-top:50px; clear: both;}
+    .right-side{width:100%; float: none; margin-top:20px; clear: both;}
+    .clear-both{clear: both;}
     
 }
 
@@ -23,6 +24,7 @@ body{margin:0;}
     .left-side{width:100%; float: none; margin-top:20px; }
     .right-side{width:100%;  float: none; margin-top:20px;}
     .middle-side{width:100%; float: none; margin-top:20px;}
+    .clear-both{clear: both;}
   
 
 }
