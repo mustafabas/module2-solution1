@@ -6,8 +6,8 @@ body{margin:0;}
 .menu{text-align: center; width:100%;}
 .row{padding-left:15px; padding-right:15px; float:left;}
 .left-side{width:33%; margin-right:0.5%; float:left;}
-.right-side{width:33%; margin-right:0.5%; float:left;}
-.middle-side{width:33%; float: left;}
+.right-side{width:33%;  float:left;}
+.middle-side{width:33%; float: left; margin-right:0.5%;}
 
 
 
